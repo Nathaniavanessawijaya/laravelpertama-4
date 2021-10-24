@@ -1,0 +1,6 @@
+Tambahan :
+1. Menambahkan border pada card agar rapih
+2. Mengubah card dari vertikal menjadi horizontal
+3. Mengubah desain paginate
+4. Mengatur jarak antar card
+5. Menambah judul diatas card
